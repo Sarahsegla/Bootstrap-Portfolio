@@ -1,4 +1,8 @@
 .contact {
     display: flex;
     justify-content: space-evenly;
+    background-color:  red;
+}
+footer {
+    text-align: center;
 }

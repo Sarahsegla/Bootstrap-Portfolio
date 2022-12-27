@@ -2,12 +2,23 @@
     display: flex;
     justify-content: space-evenly;
     background-color:  rgb(245, 224, 106);
+    font-family: 'Gruppo', cursive;
 }
 footer {
     text-align: center;
+    font-family: 'Gruppo', cursive;
 }
 .navbar-brand {
     font-family: 'Londrina Outline', cursive;
+    font-size: 2.5rem;
+}
+aside {
+    font-family: 'Gruppo', cursive;
+    font-size: 2rem;
+    box-shadow: inset 5px 0 5px -5px gold;
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
 }
 .display-4 {
 font-family: 'Gruppo', cursive;
@@ -18,6 +29,7 @@ font-family: 'Gruppo', cursive;
 .navbar-collapse {
     display: flex;
     justify-content: flex-end;
+    font-family: 'Gruppo', cursive;
 
   
 }

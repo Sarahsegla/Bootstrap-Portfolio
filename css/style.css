@@ -20,3 +20,6 @@ font-family: 'Gruppo', cursive;
     justify-content: flex-end;
   
 }
+.jumbotron {
+    background-image: url(../images/back.jpg);
+}

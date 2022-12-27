@@ -1,7 +1,7 @@
 .contact {
     display: flex;
     justify-content: space-evenly;
-    background-color:  red;
+    background-color:  rgb(245, 224, 106);
 }
 footer {
     text-align: center;
@@ -18,8 +18,13 @@ font-family: 'Gruppo', cursive;
 .navbar-collapse {
     display: flex;
     justify-content: flex-end;
+
   
 }
 .jumbotron {
     background-image: url(../images/back.jpg);
+}
+
+.bg-light {
+    background-color: rgb(245, 224, 106) !important;
 }

@@ -15,3 +15,8 @@ font-family: 'Gruppo', cursive;
 .card-title {
     font-family: 'Gruppo', cursive;
 }
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+  
+}

@@ -20,6 +20,9 @@ aside {
     padding-left: 0.5rem;
     margin-left: 0.5rem;
 }
+.skills {
+    box-shadow: 10px 10px 5px 12px gold;
+}
 .display-4 {
 font-family: 'Gruppo', cursive;
 }

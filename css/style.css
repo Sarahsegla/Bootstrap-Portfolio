@@ -6,3 +6,12 @@
 footer {
     text-align: center;
 }
+.navbar-brand {
+    font-family: 'Londrina Outline', cursive;
+}
+.display-4 {
+font-family: 'Gruppo', cursive;
+}
+.card-title {
+    font-family: 'Gruppo', cursive;
+}

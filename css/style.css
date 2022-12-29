@@ -22,6 +22,7 @@ aside {
 }
 .skills {
     box-shadow: 10px 10px 5px 12px gold;
+    box-sizing: border-box;
 }
 .display-4 {
 font-family: 'Gruppo', cursive;
@@ -42,4 +43,7 @@ font-family: 'Gruppo', cursive;
 
 .bg-light {
     background-color: rgb(245, 224, 106) !important;
+}
+.btn:hover {
+    box-shadow: 4px 4px 5px 6px gold;
 }

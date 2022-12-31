@@ -50,3 +50,22 @@ font-family: 'Gruppo', cursive;
 .nav-link:hover, #contactMe:hover {
     font-size: 2.5rem;
 }
+@media screen and (max-width:375px){
+    footer {
+        width: 155%;
+        
+    }
+    .contact {
+        width: 155%;
+    }
+    .skills {
+        width:147%;
+    }
+    header {
+        width:155%;
+    }
+    figure {
+        width:155%;
+    }
+    
+}

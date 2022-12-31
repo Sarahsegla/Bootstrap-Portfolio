@@ -20,7 +20,9 @@ N/A
 
 
 ## screenshot
+![Screenshot ](https://user-images.githubusercontent.com/117079336/210150416-3aabf268-624e-488e-9b9d-ec6cbfc57784.png)
 
+![Screenshot full](https://user-images.githubusercontent.com/117079336/210150497-ba620aba-582f-4f95-808a-287f5c88a062.png)
 
 
 

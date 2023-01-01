@@ -89,3 +89,23 @@ font-family: 'Gruppo', cursive;
     }
     
 }
+@media screen and (max-width:768px){
+    footer {
+        width: 135%;
+        background-color: blue;
+        
+    }
+    .contact {
+        width: 135%;
+    }
+    .skills {
+        width:132%;
+    }
+    header {
+        width:135%;
+    }
+    figure {
+        width:135%;
+    }
+    
+}

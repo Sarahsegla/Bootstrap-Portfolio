@@ -50,6 +50,10 @@ font-family: 'Gruppo', cursive;
 .nav-link:hover, #contactMe:hover {
     font-size: 2.5rem;
 }
+/* .container {
+   display: flex;
+   
+   */
 @media screen and (max-width:375px){
     footer {
         width: 155%;
@@ -72,7 +76,7 @@ font-family: 'Gruppo', cursive;
 @media screen and (max-width:320px){
     footer {
         width: 180%;
-        background-color: blue;
+    background-color: pink;
         
     }
     .contact {
@@ -92,7 +96,7 @@ font-family: 'Gruppo', cursive;
 @media screen and (max-width:768px){
     footer {
         width: 135%;
-        background-color: blue;
+    
         
     }
     .contact {
